@@ -30,7 +30,7 @@
 
 - 💬 Ask me about **Sciencie, Technology, Development, Music, Culture**
 
-- ✔️ I’m currently learning **Django, Clean Code**
+- ✔️ I’m currently learning **Django, Clean Code, ORM, Data Analysis**
 
 - 🌴 I try to live what I believe
 
@@ -110,6 +110,6 @@
 
 <div>
   <a href="https://github.com/santander123" target="_blank">
-  <img height="250cm" src="https://github-readme-stats.vercel.app/api?username=santander123&show_icons=true&theme=radical" target="_blank">
-  <img height="250cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=santander123&theme=tokyonight" target="_blank">
+  <img height="190cm" src="https://github-readme-stats.vercel.app/api?username=santander123&show_icons=true&theme=radical" target="_blank">
+  <img height="190cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=santander123&theme=tokyonight" target="_blank">
 </div>
